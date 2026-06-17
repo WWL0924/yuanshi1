@@ -64,4 +64,4 @@ npm run build
 
 需求文档要求的一页说明文档已整理到：
 
-- [PROJECT_REPORT.md](</c:/Users/Lenovo/Desktop/前端案例题-new/PROJECT_REPORT.md>)
+- [项目说明文档](./PROJECT_REPORT.md)
